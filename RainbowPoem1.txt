@@ -4,3 +4,4 @@ Red
 Orange
 Yellow
 Green
+Aqua
