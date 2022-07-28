@@ -6,3 +6,4 @@ Orange
 Yellow
 Green
 Aqua
+These are the colors of the rainbow.
